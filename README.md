@@ -1,5 +1,5 @@
 
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="center">
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="left">
 
 
 <br><br><br><br><br><br><br><br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=6376DAC5&center=true&width=435&lines=Prazer+em+v%C3%AA-lo+por+aqui+👋)](https://git.io/typing-svg)
