@@ -3,16 +3,24 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=6376DAC5&center=true&width=435&lines=Prazer+em+v%C3%AA-lo+por+aqui+👋)](https://git.io/typing-svg)
 
-<br><br><br><br><br>[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF0000&color:FFF)](mailto:anacarolinagremio1903@gmail.com)
+<br><br><br><br><br><br><br><br>
+<p align="left"> Hello! Atualmente graduanda em Ciência da Computação, cursando o segundo semestre.
+
+<br><br><br><br><br><br>[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF0000&color:FFF)](mailto:anacarolinagremio1903@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color:FFF)](https://www.linkedin.com/in/ana-carolina-cazuni-jorge)
 
 
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
