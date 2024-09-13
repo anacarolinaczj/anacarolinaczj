@@ -12,12 +12,11 @@
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
-</picture>
-
+ <a href="https://open.spotify.com/user/31zsjwubesj6nr6wt6qifbn6hfga?si=e3aba20f5fd04255">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&show_offline=true&cover_image=true&theme=novatorem&bar_color=00d7f6"
+      alt="Atividade atual no Spotify"
+      height="100em"/>
 
 
 
