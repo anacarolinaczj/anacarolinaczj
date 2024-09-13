@@ -12,14 +12,5 @@
 
 
 
- <a href="https://open.spotify.com/user/31zsjwubesj6nr6wt6qifbn6hfga?si=e3aba20f5fd04255">
-    <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&show_offline=true&cover_image=true&theme=novatorem&bar_color=00d7f6"
-      alt="Atividade atual no Spotify"
-      height="100em"/>
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
 
-
-
-<br><br><br><br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
