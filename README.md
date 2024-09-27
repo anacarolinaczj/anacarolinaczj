@@ -7,7 +7,7 @@
 <p align="left"> Hello! Atualmente graduanda em Ciência da Computação, cursando o segundo semestre.
 
 <br><br><br><br><br><br>[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF0000&color:FFF)](mailto:anacarolinagremio1903@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color:FFF)](https://www.linkedin.com/in/ana-carolina-cazuni-jorge)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color:FFF)](https://www.linkedin.com/in/ana-carolina-cazuni-jorge](https://www.linkedin.com/in/ana-carolina-cazuni-jorge-1538a3260/?originalSubdomain=br))
 
 
 
