@@ -6,7 +6,7 @@
 <br><br><br><br><br><br><br><br>
 <p align="left"> Hello! Atualmente graduanda em Ciência da Computação, cursando o segundo semestre.
 
-<br><br><br><br><br><br>[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF0000&color:FFF)](mailto:anacarolinagremio1903@gmail.com)
+<br><br><br><br><br><br>[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF0000&color:FFF)](mailto:anacarolinacznj@gmail.com)
 
 
 
