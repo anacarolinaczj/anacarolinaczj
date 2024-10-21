@@ -1,7 +1,7 @@
 
 <img src="https://c.tenor.com/BeaMZxTLDk4AAAAC/tenor.gif" width="250px" align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=6376DAC5&center=true&width=435&lines=Me+chamo+Ana+Carolina+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=FFFFFF&center=true&width=435&lines=Me+chamo+Ana+Carolina+👋)](https://git.io/typing-svg)
 
 <br><br><br><br><br><br><br><br>
 <p align="left"> 📎 Cursando Ciência da Computação na Cesuca. Em busca de uma oportunidade para me desenvolver na área de desenvolvimento de software/WEB. Tenho habilidades em desenvolvimento backend, Java, CSS, HTML e PHP. 
