@@ -3,11 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=FFFFFF&center=true&width=435&lines=Seja+Bem+Vindo+ao+meu+perfil+👋)](https://git.io/typing-svg) 
  <br>
 <p align="left">📎 Cursando Ciência da Computação na Cesuca. Em busca de uma oportunidade para me desenvolver na área de desenvolvimento de software/WEB. Tenho habilidades em desenvolvimento backend, Java, CSS, HTML e PHP. Também possuo nível intermediário de inglês, adquirido de forma autodidata.</p>
+ <br><br><br>
 
-
-<br><br><br><br><br><br><br>
-
-<h3 align="left">My Stack</h3>
+          
+<h3> My Stack </h3>
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30" alt="java logo"  />
