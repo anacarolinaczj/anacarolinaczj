@@ -19,7 +19,7 @@ Também possuo nível intermediário de inglês, adquirido de forma autodidata.
 
 <br><br>
 
-<h3> Connect with me ⤵ </h3>  
+<h3> Connect with me ⬎ </h3>  
 <br>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF0000&color:FFF)](mailto:anacarolinacznj@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color:FFF)](https://www.linkedin.com/in/anacarolinacznj/)
