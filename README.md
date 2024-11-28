@@ -4,8 +4,7 @@
 <img align="right" alt="" height="285px" src="https://i.pinimg.com/originals/2c/1d/39/2c1d390817d70dd325ff24f5bdfc2e87.gif">
 
 <br><br><br><br><br><br>
-<p align="left"> 📎 Cursando Ciência da Computação na Cesuca. Em busca de uma oportunidade para me desenvolver na área de desenvolvimento de software/WEB. Tenho habilidades em desenvolvimento backend, Java, CSS, HTML e PHP. 
-Também possuo nível intermediário de inglês, adquirido de forma autodidata.📎 </p>
+<p align="left"> 📎 Cursando Ciência da Computação na Cesuca, busco oportunidades na área de desenvolvimento de software/WEB. Tenho habilidades em Java, Spring, CSS e HTML, além de inglês intermediário, adquirido de forma autodidata. </p>
 
 ##
 
