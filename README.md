@@ -1,30 +1,32 @@
-<hr style="border: 2px solid black;">
- <img align="right" alt="" height="350px" src="./tenor.gif">
+<div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=696969"/>
+ <img align="left" alt="" height="160px" src="https://github.com/acznjx/acznjx/blob/main/bff5b87e88bcf91708eefc6b148244fb-removebg-preview.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=FFFFFF&center=true&width=435&lines=Seja+Bem+Vindo+ao+meu+perfil+👋)](https://git.io/typing-svg) 
- <br><br><br>
-<p align="left">📎 Cursando Ciência da Computação na Cesuca. Em busca de uma oportunidade para me desenvolver na área de desenvolvimento de software/WEB. Tenho habilidades em desenvolvimento backend, Java, CSS, HTML e PHP. Também possuo nível intermediário de inglês, adquirido de forma autodidata.</p>
- <br><br><br><br><br><br>
+<img align="right" alt="" height="285px" src="https://i.pinimg.com/originals/2c/1d/39/2c1d390817d70dd325ff24f5bdfc2e87.gif">
 
-          
-<h3> My Stack </h3>
+<br><br><br><br><br><br>
+<p align="left"> 📎 Cursando Ciência da Computação na Cesuca. Em busca de uma oportunidade para me desenvolver na área de desenvolvimento de software/WEB. Tenho habilidades em desenvolvimento backend, Java, CSS, HTML e PHP. 
+Também possuo nível intermediário de inglês, adquirido de forma autodidata.📎 </p>
+
+##
 
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30" alt="java logo"  />
-<br><br>
+<h3> My Stack </h3>
 
-<h3> Connect with me ⬎ </h3>  
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="50" alt="java logo" 
+   />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" 
+   />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" height="50" alt="postgresql logo" 
+   /> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="50" alt="spring logo" 
+   />
+  
+   
 <br>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF0000&color:FFF)](mailto:anacarolinacznj@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color:FFF)](https://www.linkedin.com/in/anacarolinacznj/)
+ <h3>  Connect with me ⬎ </h3>  
+<br>
 
-
-
-
-
-
-
-
-
-
-
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF0000&color:FFF)](mailto:anacarolinacznj@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color:FFF)](https://www.linkedin.com/in/acznjx/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/acznjx) 
