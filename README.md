@@ -1,6 +1,6 @@
 <div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=696969"/>
  <img align="left" alt="" height="160px" src="https://github.com/acznjx/acznjx/blob/main/bff5b87e88bcf91708eefc6b148244fb-removebg-preview.png">
-<img align="right" alt="" height="275px" src="https://i.pinimg.com/originals/2c/1d/39/2c1d390817d70dd325ff24f5bdfc2e87.gif">
+<img align="right" alt="" height="250px" src="https://i.pinimg.com/originals/2c/1d/39/2c1d390817d70dd325ff24f5bdfc2e87.gif">
 
 
 
